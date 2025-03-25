@@ -7,6 +7,7 @@ The FBI Crime Analysis Dashboard is a data visualization project created using P
 ----
 
 🔍 Features and Insights
+
 ✅ Crime Distribution Analysis:
 
 Visual representation of crime frequency by type (theft, mischief, etc.).
